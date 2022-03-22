@@ -1,0 +1,4 @@
+1. What is the Java Development Kit (JDK)?
+JDK is a software development kit that includes tools and libraries necessary for developing java applications.
+You need the JDK to convert your source code into a format that the Java Runtime Environment (JRE) can execute.
+
